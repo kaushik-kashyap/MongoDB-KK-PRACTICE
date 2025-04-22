@@ -1,0 +1,7 @@
+In this sir has explained about the aws database, region . Explained what are the types of data, difference between SQL, MySQL, PostSQL, NoSQL and so on. 
+What is the AWS zone What are the zones and regions are available from where users can easily upload the data and retrieve that. 
+What is sharding. 
+What is replication. 
+Difference between both us these. 
+What is sharding and replication in mongoDB
+What is Arbiter
